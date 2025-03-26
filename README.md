@@ -1,4 +1,4 @@
-## Inncloud Prueba tecnica Frontend
+## Inncloud Prueba tecnica BackEnd
 
 Este es el frontEnd de la prueba tecnica para mi postulacion en incloud
 
